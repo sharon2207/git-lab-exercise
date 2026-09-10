@@ -1,5 +1,5 @@
 # Welcome to Git Lab Exercise
-## Master Branch Version
+## Develop Branch Version
 
 This file demonstrates basic Git operations from the master branch.
 
