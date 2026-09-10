@@ -1,0 +1,12 @@
+# Welcome to Git Lab Exercise
+## Master Branch Version
+
+This file demonstrates basic Git operations from the master branch.
+
+## Topics Covered:
+1. Local Git Configuration
+2. Repository Initialization
+3. Branching Strategies
+4. Merging
+5. Conflict Resolution
+6. Pull Request Management
