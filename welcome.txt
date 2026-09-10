@@ -1,5 +1,5 @@
 # Welcome to Git Lab Exercise
-## Develop Branch Version
+## Develop Branch Version (merged with payment feature)
 
 This file demonstrates basic Git operations from the master branch.
 
@@ -10,3 +10,4 @@ This file demonstrates basic Git operations from the master branch.
 4. Merging
 5. Conflict Resolution
 6. Pull Request Management
+7. Payment processing integration
