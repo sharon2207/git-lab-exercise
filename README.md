@@ -133,3 +133,19 @@ git pull origin main
 # Fetch remote changes
 git fetch origin
 ```
+
+## 10. Pull Request Workflow (GitHub CLI)
+
+```bash
+# Create the repo and push
+gh repo create git-lab-exercise --source . --push
+
+# Open a pull request
+gh pr create --base master --title "Feature" --body "Description"
+
+# Review a pull request
+gh pr review --approve
+
+# Merge a pull request
+gh pr merge --merge
+```
